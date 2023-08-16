@@ -1,0 +1,61 @@
+20230810	17:08:00	51bad244-d7cc-4d84-aeee-c04f317b60f9	Error: Not allowed by CORS
+20230811	16:13:53	1d0523e1-6987-48bd-8106-a5fe697a7659	TypeError: data.find is not a function
+20230812	10:54:34	54389aff-7ecb-4f37-8c2b-ff9c26352935	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:00:35	78ab07e6-06b7-4d2b-b2f7-9bdae5c66e8f	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:01:35	2a468944-a6b1-4664-8c80-c807bea1d475	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:02:35	7476335e-0872-4e20-8bdd-e6255095c68d	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:02:35	87058eaa-c3c5-44e7-9aa1-53dfc0faaaf0	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:02:35	3a7b7460-d0d2-41d0-92a3-266cfb8e609b	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:02:35	c3e2dc1b-3202-4bda-8e2c-1ee2a7e1a472	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:03:35	37e6de98-c581-43c2-bbec-ab6106ad043a	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:34:35	ff5b04e5-ba20-4954-9590-9ac61df2a1a0	SyntaxError: Unexpected token } in JSON at position 28
+20230812	10:35:35	d3a7f2d2-c752-4f1b-af87-6a97de65ae64	SyntaxError: Unexpected token } in JSON at position 28
+20230812	21:21:22	bcd3c48d-3a4b-477a-b319-ebe9af574dc9	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:23:22	83e981d8-231c-43aa-bc74-cc856366f226	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:29:26	9e633589-b08d-4fef-a705-83507e4b5b06	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:34:26	f3125630-f173-4883-9364-0c33f1bcfca9	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:39:26	ddd76867-64bc-4c35-a4e7-276ee234072e	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:56:26	bf8bc5fd-37cc-42ef-91ea-e6cf186a047c	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:57:26	4311a311-a65f-4575-b8a1-f257562daba4	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:58:26	f59e675d-f7ce-40b8-9867-5eed9819c425	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:45:27	998fb279-a41d-4231-a795-a378547f9445	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:46:27	0126c442-36b0-4257-8fc4-a569a115efdd	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:00:28	6510faf6-d5a8-4984-8a0d-b3ed4019743c	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:00:28	2c45f150-7c8b-4293-8874-5ae55529e9fd	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:02:28	1063b6bb-2699-47af-bf78-2bcea431fc01	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:31:28	a28019a1-aba2-413b-ac04-7a480164aee1	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:12:31	a819c8ab-818f-4b9d-ae10-e2716b5abe41	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:15:31	f59527a4-326e-4a86-85fb-fd149bc1a3cf	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:15:31	a9f4b6a2-4ae3-4574-957a-42e4d431340e	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:00:35	1d4936f9-fcf3-45dc-86ab-5fd2cea0039d	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:02:35	b4942018-046e-4713-9033-63091b126bb1	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:02:35	273b624f-d2ab-4693-8909-475e4b8411e5	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:49:36	c356c1c3-a0ef-473b-a023-3f7cf72b960d	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:50:36	f52903ec-ad23-4b38-a8cd-882ccec0c5c0	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:51:36	44390e87-23c2-40ba-8363-8d3ac987bbff	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:22:37	b5a10c14-21e3-4e26-8a33-af36cda5c6b3	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:24:37	9a446a28-0b2e-40fa-b475-01586dd2b245	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:31:38	2dd54556-abb8-490e-88b5-7e617ab0ab8c	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:16:41	d08dfbe5-2a34-4986-97c0-f0a4565c953c	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:17:41	994479b9-dc4c-4d40-874e-32586378607f	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:18:41	277c2468-9897-4530-8dda-adaa5d554a28	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:52:42	887f4968-adcc-4341-a0d2-cd529608caee	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:53:42	4e9b4865-8848-404c-b3d9-5eea0c5b9226	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:59:42	a6233b05-e8ae-456b-a7b7-cba65dd4041b	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:00:43	16eaafb0-45c9-4dd7-8289-adb8c6d3c99f	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:00:43	9a32194d-7eb0-4e40-9f4d-eec4d0d43736	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:01:43	61090fb1-a872-4970-ae51-4590937a6cf2	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:22:43	aba12574-083a-45c5-95e1-3b73fd024067	SyntaxError: Unexpected token " in JSON at position 0
+20230812	21:42:43	fe4ac6e3-f447-4c02-a0d0-3bfb5b2ee948	SyntaxError: Unexpected token " in JSON at position 0
+20230812	22:33:48	ae491ba0-6faa-447f-8e05-3f4dcec34aa6	SyntaxError: Unexpected token " in JSON at position 0
+20230812	22:43:48	21f12136-34fe-491d-8ab3-394686f768e9	SyntaxError: Unexpected token } in JSON at position 150
+20230812	22:47:48	670a493e-0f9b-4fbd-babf-2cd8331202cf	SyntaxError: Unexpected token " in JSON at position 0
+20230814	13:37:36	a35356e1-e3c5-4392-9eb7-af77ee21ea9f	ReferenceError: whiteList is not defined
+20230814	13:39:36	88c6f974-c7e7-4a2c-b998-f621bf32ae42	ReferenceError: whiteList is not defined
+20230814	13:40:36	30dd6285-8ef1-429e-acd0-211bf4ee1780	ReferenceError: whiteList is not defined
+20230814	13:41:36	a2a0a6a0-cab0-4264-84e5-81387ee50e9b	ReferenceError: whiteList is not defined
+20230814	13:52:36	cb8a23c3-a385-4595-8c69-4f919f9a9ee2	ReferenceError: whiteList is not defined
+20230814	13:53:36	5bace7dc-2e98-480f-8e79-88eed9a1255f	ReferenceError: whiteList is not defined
+20230814	13:54:36	bcf286c9-10c5-4b40-86e7-a58991b7c428	ReferenceError: whiteList is not defined
+20230814	18:27:24	012dbc21-802a-47b3-9d88-3f4f3bb48371	ReferenceError: employees is not defined
+20230814	18:28:24	245568de-e601-423d-8437-863b65a1817c	ReferenceError: employees is not defined
